@@ -127,4 +127,6 @@ public abstract class MainActivity extends AppCompatActivity
                 Toast.makeText(MainActivity.this, "按下取消鈕!", Toast.LENGTH_SHORT).show();
         }
     }
+
+    
 }
